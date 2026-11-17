@@ -1,0 +1,12 @@
+mne>=1.13
+yasa>=0.8.1
+neurokit2>=0.3
+scikit-learn>=1.6
+scipy
+statsmodels
+numpy
+pandas
+matplotlib
+joblib
+edfio
+pooch
